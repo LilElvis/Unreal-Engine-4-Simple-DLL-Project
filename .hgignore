@@ -1,0 +1,12 @@
+Saved
+syntax: glob
+
+AssetRegistryCache
+Build
+Config
+DatasmithContentTemp
+ReimportCache
+Staging
+CachedAssetRegistry
+
+Content/VehicleAdvBP/Blueprints/BP_Flip.uasset
