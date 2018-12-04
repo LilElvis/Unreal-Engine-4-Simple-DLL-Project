@@ -1,14 +1,10 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+//This is a tutorial for loading a DLL and importing a single function from it in UE4 for use in Blueprints - Raymond Dee, 100578667
 
 #pragma once
 
 #include "Core.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "LoadDLLs.generated.h"
-
-/**
-This is a simple test project to find the bare minimum required to load a DLL that works into Unreal Engine 4
- */
 
 UCLASS()
 class SIMPLEDLLPROJECT_API ULoadDLLs : public UBlueprintFunctionLibrary

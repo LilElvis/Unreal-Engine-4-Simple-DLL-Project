@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+//This is a tutorial for loading a DLL and importing a single function from it in UE4 for use in Blueprints - Raymond Dee, 100578667
 
 #include "LoadDLLs.h"
 #include "SimpleDLLProject.h" //Include "ProjectName.h"
